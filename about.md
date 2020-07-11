@@ -8,6 +8,6 @@ title: About
 
 ***Will be pushing more TryHackMe and HackTheBox writeup's here for the readers to help themselves to learn and explore the same interest we share***
 
-***DM me on Instagram @xavag3_djang0***
+***DM me on [Instagram](https://www.instagram.com) @xavag3_djang0***
 
 ***Thank You!!!***
